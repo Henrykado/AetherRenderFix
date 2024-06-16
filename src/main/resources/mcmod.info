@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "aether_renderfix",
+		"name": "Aether Render Fix",
+		"description": "Fixes certain rendering issues in The Aether mod involving gloves and capes",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["Henrykado"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": ["Aether"]
+	}
+]
